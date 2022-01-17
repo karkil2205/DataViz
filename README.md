@@ -8,6 +8,4 @@
 * Ces données doivent être soigneusement stockées dans des fichiers CSV ou autres.
 * Vous devez représenter les fonctions de distributions cumulées de ces distributions.
 * Vous devez représenter les courbes de Lorenz.
-* Vous devez calculer des indices d'inégalité (comme l'indice de Gini) et représenter visullement ces différences.
-*  
-
+* Vous devez calculer des indices d'inégalité (comme l'indice de Gini) et représenter visuellement ces différences.
