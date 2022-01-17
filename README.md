@@ -1,4 +1,4 @@
-# Projet 1
+# La représentation des inégalités de revenu eb Europe 
 
 * Ce projet porte sur les mesures et la représentation graphique des inégalités.
 * Les données utilisées sont celles d'[Eurostat](https://fr.wikipedia.org/wiki/Eurostat).
